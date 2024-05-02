@@ -9,7 +9,7 @@ Some of those challenges include:
 2) Menu Optimization
 3) Customer Segmentation
 4) Supply Chain Management
-5)Operational Efficiency
+5) Operational Efficiency
 
 By leveraging data analysis techniques, a pizza business owner can gain valuable insights into various aspects of their operations, leading to informed decision-making, improved efficiency, and ultimately, greater profitability.
 
