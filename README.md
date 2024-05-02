@@ -37,23 +37,23 @@ STEP-3) IMPACT OF THIS PROJECT ON THE PIZZA BUSINESS.
 
 (A) Accuracy Improvement:
 
-1)By accurately retrieving the total number of orders placed, we provide a precise understanding of customer demand, leading to better inventory management and   resource allocation.
+1) By accurately retrieving the total number of orders placed, we provide a precise understanding of customer demand, leading to better inventory management and   resource allocation.
   previously estimated 100 orders per day but the actual count is 120, our accuracy has improved by 20%.
-2)Calculating the total revenue generated from pizza sales accurately reflects the financial performance of the business, enabling informed decision-making.              For instance, if previous revenue estimates were off by 5%, the improved accuracy ensures a more precise understanding of revenue streams.
-3)Listing the top 5 most ordered pizza types along with their quantities allows for targeted marketing efforts and menu optimization based on customer preferences.
+2) Calculating the total revenue generated from pizza sales accurately reflects the financial performance of the business, enabling informed decision-making.              For instance, if previous revenue estimates were off by 5%, the improved accuracy ensures a more precise understanding of revenue streams.
+3) Listing the top 5 most ordered pizza types along with their quantities allows for targeted marketing efforts and menu optimization based on customer preferences.
   For instance, if previous menu adjustments were based on intuition rather than data, the improved accuracy ensures better alignment with customer preferences.
-4)Determining the distribution of orders by hour of the day allows for better staffing and resource allocation to meet demand during peak hours.
+4) Determining the distribution of orders by hour of the day allows for better staffing and resource allocation to meet demand during peak hours.
   For instance, if previous staffing schedules were based on intuition rather than data, the improved accuracy ensures better alignment with customer behavior.
 
 (B) Efficiency Gains:
 
-1)Through data preprocessing, we ensure that the data is clean and consistent, reducing the likelihood of errors in subsequent analyses.
+1) Through data preprocessing, we ensure that the data is clean and consistent, reducing the likelihood of errors in subsequent analyses.
   For instance, by correctly representing pizza sizes and types in the order details table, we prevent discrepancies in size or type counts, leading to more reliable   insights.
-2)By efficiently identifying the highest-priced pizza, we can better understand pricing strategies and adjust them accordingly to maximize profitability.
+2) By efficiently identifying the highest-priced pizza, we can better understand pricing strategies and adjust them accordingly to maximize profitability.
   For example, by quickly identifying the highest-priced pizza, we save time that would have been spent manually reviewing prices across all pizzas.
-3)Joining the necessary tables to find the total quantity of each pizza category ordered streamlines data retrieval and analysis, saving time and resources.
+3) Joining the necessary tables to find the total quantity of each pizza category ordered streamlines data retrieval and analysis, saving time and resources.
   For example, if previous data retrieval methods took an hour to complete, the optimized methodology reduces the time to 30 minutes, resulting in a 50%   efficiency gain.
-4)Joining relevant tables to find the category-wise distribution of pizzas reduces the complexity of the analysis and improves the clarity of insights.
+4) Joining relevant tables to find the category-wise distribution of pizzas reduces the complexity of the analysis and improves the clarity of insights.
   For example, if previous analyses required manual aggregation of data from multiple sources, the optimized methodology reduces the time and effort required.
 
 By doing this there were accuracy improvements and efficiency gains, i have highlighted the tangible benefits of implementing the detailed methodology and data preprocessing steps in this MySQL project.
